@@ -1,7 +1,7 @@
-# Specify core packages needed for your app
+scikitlearn
 streamlit
 pycaret
 streamlit-option-menu
-
-# Use a compatible numpy version (this ensures it uses precompiled wheels)
+distutils
+matplotlib
 numpy==1.23.4
